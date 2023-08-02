@@ -15,13 +15,11 @@ const Home = () => {
                         I'm a Full Stack Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I have 1 years of experience building and desgining software.
-                        Currently, I love to work on web application using technologies like
-                        React, Tailwind, Next JS and GraphQL.
+                        As a fresher building and designing web applications, I am enthusiastic about working with technologies such as React, Tailwind, Next.js, and GraphQL to create innovative and user-friendly web applications.
                     </p>
 
                     <div>
-                        <Link 
+                        <Link
                             to="portfolio"
                             smooth
                             duration={500}
